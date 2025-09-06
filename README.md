@@ -1,6 +1,9 @@
 # Hi there, I'm Tharindi Anuththara! 👋
 
-images/banner.png
+<p align="center">
+  <img src="images/banner.png" alt="My Banner" width="800">
+</p>
+
 
 ## About Me 🚀
 
