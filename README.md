@@ -1,6 +1,6 @@
 # Hi there, I'm Tharindi Anuththara! 👋
 
-![My Banner](assets/banner.png)
+![My Banner](assets/banner.jpg)
 
 
 ## About Me 🚀
