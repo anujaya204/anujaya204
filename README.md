@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Undergradu
 ### Backend & Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
@@ -39,6 +40,12 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Undergradu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujaya204&theme=radical&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujaya204&theme=radical&layout=compact&hide_border=true)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=anujaya204&color=blue&style=flat-square)
 
 ---
 
