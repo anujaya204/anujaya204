@@ -37,15 +37,20 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Undergradu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujaya204&theme=radical&show_icons=true&hide_border=true)
+[![GitHub Stats](https://github-readme-stats-silk-two.vercel.app/api?username=anujaya204&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anujaya204)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujaya204&theme=radical&layout=compact&hide_border=true)
+[![Top Languages](https://github-readme-stats-silk-two.vercel.app/api/top-langs/?username=anujaya204&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anujaya204)
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Engagement
 
-![Profile Views](https://komarev.com/ghpvc/?username=anujaya204&color=blue&style=flat-square)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-%230?style=flat-square&color=blue)
+
+**Latest Activity:**
+- 🔗 View my [GitHub Profile](https://github.com/anujaya204)
+- 📈 Check out my [repositories](https://github.com/anujaya204?tab=repositories)
+- ⭐ Find my best [projects](https://github.com/anujaya204?tab=stars)
 
 ---
 
