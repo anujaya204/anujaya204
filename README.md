@@ -69,7 +69,7 @@ Let's connect and collaborate! You can find me on:
 
 - **LinkedIn**: [Tharindi Anuththara](https://www.linkedin.com/in/tharindi-anuththara-b4b98936b)
 - **GitHub**: [@anujaya204](https://github.com/anujaya204)
-- **Email**: [Reach out via GitHub](https://github.com/anujaya204)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuththara.dev88@gmail.com)
 
 ---
 
