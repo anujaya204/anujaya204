@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Undergradu
 
 ## 👀 Profile Engagement
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-%230?style=flat-square&color=blue)
+
 
 **Latest Activity:**
 - 🔗 View my [GitHub Profile](https://github.com/anujaya204)
